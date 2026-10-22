@@ -11,59 +11,63 @@
 
 ### Hey, I'm Prabhat.
 
-I'm a CSE undergrad at Government College of Engineering, CSN, Maharashtra, in the class of 2028. AI/ML is where a lot of my curiosity goes, but I like following an idea wherever it takes me: a backend, a web app, a terminal tool, or a desktop notepad.
+**CSE '28 · Government College of Engineering, CSN, Maharashtra.**
 
-I want to understand what happens between a model's answer and something someone can actually use. That means getting into retrieval, APIs, databases, permissions, and all the little details around them. Some repos are experiments. Others are me taking an idea further.
+Most of my curiosity goes into **AI/ML and backend engineering**, but I like following an idea wherever it leads: a web app, a developer tool, or a native Linux notepad.
 
-A little shonen energy, plenty left to learn. **My magic is never give up.**
+I learn by building, getting stuck, and figuring out why something behaves the way it does. I'm interested in the whole journey from a model's output to a useful product: retrieval, APIs, databases, permissions, and the interface someone actually uses. There's plenty I'm still learning, and I like leaving room for experiments along the way.
+
+**My magic is never give up.**
 
 ### The arc so far
 
 - **Exploring AI:** from a small RAG pipeline to tools that show the evidence behind their answers.
-- **Getting deeper into backend engineering:** I interned at **dotBuild** (June–July 2026), working on APIs, auth, database architecture, and payment flows for a gym-management SaaS.
-- **Leaving room for side quests:** building a native Linux editor belongs here too. Curiosity gets a vote.
+- **Going deeper into backend:** interned at **dotBuild** (June–July 2026), working on APIs, auth, database architecture, and payment flows for a gym-management SaaS.
+- **Taking side quests:** C++ problem-solving, codebase exploration tools, and a native Linux editor. Curiosity gets a vote.
 
-### Four builds, different sides of me
+### Tools I reach for
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,py,pytorch,tensorflow,sklearn,ts,react,nextjs,tailwind,fastapi,express,postgres,prisma,docker,linux&amp;theme=dark&amp;perline=8" alt="C++, Python, PyTorch, TensorFlow, scikit-learn, TypeScript, React, Next.js, Tailwind CSS, FastAPI, Express, PostgreSQL, Prisma, Docker, and Linux" />
+  </a>
+</p>
+
+### A few things I've built
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/23-prabhat/Serpapi-hackathon">01 / Kabtak</a></h3>
-      <p><strong>AI, with receipts.</strong> A scholarship-deadline assistant that separates student deadlines from administrative dates and shows the source passage behind its conclusions.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>Next.js</code> <code>SerpApi</code> <code>Groq</code></p>
+      <p>Scholarship deadlines with source evidence. AI, with receipts.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>Next.js</code></p>
       <p><a href="https://www.youtube.com/watch?v=QK3M5dc2Ukk">Watch the demo ↗</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/23-prabhat/RepoMD">02 / RepoMD</a></h3>
-      <p><strong>Curiosity about codebases.</strong> A repository-analysis tool with web and CLI interfaces, architecture diagrams, entry-point maps, and chat about the code.</p>
-      <p><code>TypeScript</code> <code>Next.js</code> <code>CLI</code> <code>AI</code></p>
+      <p>Explore codebases through architecture diagrams and chat, on the web or in your terminal.</p>
+      <p><code>TypeScript</code> <code>Next.js</code> <code>AI</code></p>
       <p><a href="https://github.com/23-prabhat/Swayambhu_PS_04/blob/main/explanation.md">Explore the architecture ↗</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/23-prabhat/Velozity">03 / Velozity</a></h3>
-      <p><strong>The backend rabbit hole.</strong> A project desk with role-scoped tasks, authentication, notifications, and real-time activity that follows the same access rules as the API.</p>
-      <p><code>React</code> <code>Express</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Socket.IO</code></p>
+      <p>A project desk with role-based access, task tracking, and real-time activity.</p>
+      <p><code>React</code> <code>Express</code> <code>PostgreSQL</code></p>
       <p><a href="https://github.com/23-prabhat/Velozity#authentication-and-authorization">Under the hood ↗</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/23-prabhat/Slate">04 / Folio Notepad</a></h3>
-      <p><strong>A desktop side quest.</strong> A native editor for Fedora KDE with Markdown, tables, inline drawing, portable notes, and local draft recovery. Still in development.</p>
-      <p><code>Python</code> <code>PySide6 / Qt</code> <code>SQLite</code> <code>Linux</code></p>
+      <p>A native Linux notepad with Markdown, drawing, and draft recovery. Still in development.</p>
+      <p><code>Python</code> <code>Qt</code> <code>SQLite</code></p>
       <p><a href="https://github.com/23-prabhat/Slate#everyday-use">See what it does ↗</a></p>
     </td>
   </tr>
 </table>
 
-### In my toolkit
-
-**AI & data** · Python, PyTorch, TensorFlow, scikit-learn, Hugging Face, FAISS<br>
-**Apps & systems** · TypeScript, React, Next.js, FastAPI, Express, PostgreSQL, Docker, Linux
-
-For problem-solving practice: [LeetCode](https://leetcode.com/u/Jha_Prabhat/) · [Codeforces](https://codeforces.com/profile/_23_prabhat) · [CodeChef](https://www.codechef.com/users/prabhat_23)
+**Practice arc** · [LeetCode](https://leetcode.com/u/Jha_Prabhat/) · [Codeforces](https://codeforces.com/profile/_23_prabhat) · [CodeChef](https://www.codechef.com/users/prabhat_23)
 
 ---
 
-Have a curious idea or something we could build together? [Let's talk.](mailto:jhaprabhat.anand@gmail.com)<br>
-More of my work lives at **[prabhatjha.me](https://prabhatjha.me)**. The next arc is still being written.
+Got an interesting side quest? [Let's build.](mailto:jhaprabhat.anand@gmail.com)
